@@ -2,3 +2,4 @@ numpy
 ipykernel
 networkx
 matplotlib
+scikit-image
