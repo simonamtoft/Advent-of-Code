@@ -3,3 +3,4 @@ ipykernel
 networkx
 matplotlib
 scikit-image
+sympy
